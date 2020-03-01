@@ -15,7 +15,7 @@ img {
   margin-right: 0.4rem; }
 
 #showcase {
-  background: url(../img/showcase.jpg) no-repeat top center fixed/cover;
+  background: transparent url("../img/showcase.jpg") top center no-repeat;
   position: relative;
   min-height: 650px;
   color: #fff;
